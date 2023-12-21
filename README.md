@@ -3,8 +3,8 @@
 <div> Nim : 231031068 </div>
 <div> Prodi : Sistem Informasi C </div>
 
-* Praktikum 1 : Pegenalan Variabel `praktikum-c1.py`
-* Praktikum 2 : Operator `praktikum-c2.py`
-* Praktikum 3 : Rangkaian Karakter (String) `prkatikum-c3.py`
-* Praktikum 4 : `praktikum-c4.py` 
+* Latihan 1 :  `praktikum-c1.py`
+* Latihan 2 :  `praktikum-c2.py`
+* Latihan 3 :  `prkatikum-c3.py`
+* Latihan 4 : `praktikum-c4.py` 
 
